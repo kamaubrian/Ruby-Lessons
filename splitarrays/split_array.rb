@@ -11,4 +11,10 @@ class SplitArray
   $date = "8/12/2017"
   puts($date.split('/'));
 
+  $array_family = ["Hello","World"];
+  puts($array_family[1]);
+
+
+
+
 end
